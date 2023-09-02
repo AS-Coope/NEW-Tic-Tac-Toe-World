@@ -8,3 +8,10 @@ to rebuild the entire game from scratch with this knowledge and experience.
 It is also my intention to add newer features to the project, like local multiplayer, which would be a bit more difficult to add 
 to the original project in its current state, least without something breaking. And last, but not least, it will help me to 
 get a lot more hands on experience with C.
+
+## Objectives/ Deliverables
+For v1.0:
+- [ ] Implement story mode, where the player can face up to 5 AI bosses of increasing difficulty.
+- [ ] Implement (local [single PC - one process]) tournament mode, where up to 16 players can face off and be ranked at the end of the tournament.
+- [ ] Allow the user to change their desired theme (font colour).
+- [ ] Allow the user to change their player name.
